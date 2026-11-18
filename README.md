@@ -28,7 +28,7 @@ Informațiile despre evenimente sunt împrăștiate pe rețele sociale și site-
 - Etapele următoare: backend + bază de date (MySQL)
 
 ## Rulare
-1. Clonează repository-ul: `git clone <link-repository>`
+1. Clonează repository-ul: `git clone https://github.com/adina135/eventplanner.git`
 2. Deschide `index.html` în browser (sau folosește extensia Live Server din VS Code).
 
 Nu este necesară nicio instalare – Bootstrap și fonturile se încarcă din CDN.
