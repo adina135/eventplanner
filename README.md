@@ -3,6 +3,8 @@
 Aplicație web pentru descoperirea, organizarea și gestionarea evenimentelor (conferințe, workshopuri, concerte, evenimente sportive, nunți, networking).
 Proiect realizat pentru disciplina PMM – Master TM.
 
+**Demo live:** https://adina135.github.io/eventplanner/
+
 ## Problema rezolvată
 Informațiile despre evenimente sunt împrăștiate pe rețele sociale și site-uri diferite, iar organizatorii mici gestionează înscrierile în Excel. EventPlanner adună evenimentele într-un singur loc, permite înscrierea online și oferă organizatorilor un panou cu participanți și statistici.
 
