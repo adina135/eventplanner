@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1000" viewBox="0 0 1200 1000" font-family="Arial, sans-serif">
+<rect width="1200" height="1000" fill="#FFFFFF" stroke="#9CA3AF"/>
+<rect x="0" y="0" width="1200" height="64" fill="#F1F1F1"/>
+<text x="24" y="38.0" font-size="17.0" font-weight="bold" fill="#1F2937">LOGO EventPlanner</text>
+<text x="340" y="38" font-size="13" fill="#374151">Acasă</text>
+<text x="445" y="38" font-size="13" fill="#374151">Evenimente</text>
+<text x="550" y="38" font-size="13" fill="#374151">Detalii</text>
+<text x="655" y="38" font-size="13" fill="#374151">Organizează</text>
+<text x="760" y="38" font-size="13" fill="#374151">Panoul meu</text>
+<rect x="930" y="14" width="120" height="36" rx="6" fill="#FFFFFF" stroke="#374151" stroke-width="1.5"/>
+<text x="990.0" y="36.2" font-size="12" text-anchor="middle" fill="#374151">Autentificare</text>
+<rect x="1060" y="14" width="116" height="36" rx="6" fill="#374151" stroke="#374151" stroke-width="1.5"/>
+<text x="1118.0" y="36.2" font-size="12" text-anchor="middle" fill="#FFFFFF">Creează cont</text>
+<rect x="0" y="64" width="1200" height="110" fill="#F1F1F1"/>
+<text x="60" y="117.4" font-size="22.099999999999998" font-weight="bold" fill="#1F2937">Evenimente (H1)</text>
+<rect x="60" y="132" width="600" height="32" rx="4" fill="#FFFFFF" stroke="#9CA3AF"/>
+<text x="70" y="152.0" font-size="12" fill="#9CA3AF">Caută după titlu...</text>
+<rect x="940" y="132" width="200" height="32" rx="4" fill="#FFFFFF" stroke="#9CA3AF"/>
+<text x="950" y="152.0" font-size="12" fill="#9CA3AF">Sortează: dată (listă)</text>
+<rect x="60" y="200" width="260" height="560" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<text x="76" y="229.4" font-size="15.299999999999999" font-weight="bold" fill="#1F2937">Filtre (bară laterală)</text>
+<text x="76" y="272" font-size="13" fill="#374151">Categorie [ ] [ ] [ ]</text>
+<rect x="76" y="282" width="228" height="30" rx="4" fill="#FFFFFF" stroke="#9CA3AF"/>
+<text x="76" y="352" font-size="13" fill="#374151">Oraș (listă)</text>
+<rect x="76" y="362" width="228" height="30" rx="4" fill="#FFFFFF" stroke="#9CA3AF"/>
+<text x="76" y="432" font-size="13" fill="#374151">Interval date</text>
+<rect x="76" y="442" width="228" height="30" rx="4" fill="#FFFFFF" stroke="#9CA3AF"/>
+<text x="76" y="512" font-size="13" fill="#374151">Preț (slider)</text>
+<rect x="76" y="522" width="228" height="30" rx="4" fill="#FFFFFF" stroke="#9CA3AF"/>
+<text x="76" y="592" font-size="13" fill="#374151">Doar gratuite [ ]</text>
+<rect x="76" y="602" width="228" height="30" rx="4" fill="#FFFFFF" stroke="#9CA3AF"/>
+<rect x="76" y="700" width="228" height="40" rx="6" fill="#374151" stroke="#374151" stroke-width="1.5"/>
+<text x="190.0" y="724.2" font-size="12" text-anchor="middle" fill="#FFFFFF">Aplică filtrele</text>
+<rect x="350" y="200" width="250" height="250" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<rect x="350" y="200" width="250" height="112.5" fill="#E2E2E2" stroke="#6B7280"/><line x1="350" y1="200" x2="600" y2="312.5" stroke="#B0B0B0"/><line x1="600" y1="200" x2="350" y2="312.5" stroke="#B0B0B0"/>
+<rect x="440.5" y="244.25" width="69" height="24" fill="#FFFFFF"/>
+<text x="475.0" y="260.45" font-size="12" text-anchor="middle" fill="#4B5563">imagine</text>
+<text x="362" y="337.0" font-size="13" fill="#374151">Card eveniment</text>
+<rect x="362" y="349.0" width="226" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="362" y="365.0" width="135.6" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="508" y="406" width="80" height="30" rx="6" fill="#FFFFFF" stroke="#374151" stroke-width="1.5"/>
+<text x="548.0" y="425.2" font-size="12" text-anchor="middle" fill="#374151">Detalii</text>
+<rect x="620" y="200" width="250" height="250" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<rect x="620" y="200" width="250" height="112.5" fill="#E2E2E2" stroke="#6B7280"/><line x1="620" y1="200" x2="870" y2="312.5" stroke="#B0B0B0"/><line x1="870" y1="200" x2="620" y2="312.5" stroke="#B0B0B0"/>
+<rect x="710.5" y="244.25" width="69" height="24" fill="#FFFFFF"/>
+<text x="745.0" y="260.45" font-size="12" text-anchor="middle" fill="#4B5563">imagine</text>
+<text x="632" y="337.0" font-size="13" fill="#374151">Card eveniment</text>
+<rect x="632" y="349.0" width="226" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="632" y="365.0" width="135.6" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="778" y="406" width="80" height="30" rx="6" fill="#FFFFFF" stroke="#374151" stroke-width="1.5"/>
+<text x="818.0" y="425.2" font-size="12" text-anchor="middle" fill="#374151">Detalii</text>
+<rect x="890" y="200" width="250" height="250" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<rect x="890" y="200" width="250" height="112.5" fill="#E2E2E2" stroke="#6B7280"/><line x1="890" y1="200" x2="1140" y2="312.5" stroke="#B0B0B0"/><line x1="1140" y1="200" x2="890" y2="312.5" stroke="#B0B0B0"/>
+<rect x="980.5" y="244.25" width="69" height="24" fill="#FFFFFF"/>
+<text x="1015.0" y="260.45" font-size="12" text-anchor="middle" fill="#4B5563">imagine</text>
+<text x="902" y="337.0" font-size="13" fill="#374151">Card eveniment</text>
+<rect x="902" y="349.0" width="226" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="902" y="365.0" width="135.6" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="1048" y="406" width="80" height="30" rx="6" fill="#FFFFFF" stroke="#374151" stroke-width="1.5"/>
+<text x="1088.0" y="425.2" font-size="12" text-anchor="middle" fill="#374151">Detalii</text>
+<rect x="350" y="470" width="250" height="250" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<rect x="350" y="470" width="250" height="112.5" fill="#E2E2E2" stroke="#6B7280"/><line x1="350" y1="470" x2="600" y2="582.5" stroke="#B0B0B0"/><line x1="600" y1="470" x2="350" y2="582.5" stroke="#B0B0B0"/>
+<rect x="440.5" y="514.25" width="69" height="24" fill="#FFFFFF"/>
+<text x="475.0" y="530.45" font-size="12" text-anchor="middle" fill="#4B5563">imagine</text>
+<text x="362" y="607.0" font-size="13" fill="#374151">Card eveniment</text>
+<rect x="362" y="619.0" width="226" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="362" y="635.0" width="135.6" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="508" y="676" width="80" height="30" rx="6" fill="#FFFFFF" stroke="#374151" stroke-width="1.5"/>
+<text x="548.0" y="695.2" font-size="12" text-anchor="middle" fill="#374151">Detalii</text>
+<rect x="620" y="470" width="250" height="250" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<rect x="620" y="470" width="250" height="112.5" fill="#E2E2E2" stroke="#6B7280"/><line x1="620" y1="470" x2="870" y2="582.5" stroke="#B0B0B0"/><line x1="870" y1="470" x2="620" y2="582.5" stroke="#B0B0B0"/>
+<rect x="710.5" y="514.25" width="69" height="24" fill="#FFFFFF"/>
+<text x="745.0" y="530.45" font-size="12" text-anchor="middle" fill="#4B5563">imagine</text>
+<text x="632" y="607.0" font-size="13" fill="#374151">Card eveniment</text>
+<rect x="632" y="619.0" width="226" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="632" y="635.0" width="135.6" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="778" y="676" width="80" height="30" rx="6" fill="#FFFFFF" stroke="#374151" stroke-width="1.5"/>
+<text x="818.0" y="695.2" font-size="12" text-anchor="middle" fill="#374151">Detalii</text>
+<rect x="890" y="470" width="250" height="250" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<rect x="890" y="470" width="250" height="112.5" fill="#E2E2E2" stroke="#6B7280"/><line x1="890" y1="470" x2="1140" y2="582.5" stroke="#B0B0B0"/><line x1="1140" y1="470" x2="890" y2="582.5" stroke="#B0B0B0"/>
+<rect x="980.5" y="514.25" width="69" height="24" fill="#FFFFFF"/>
+<text x="1015.0" y="530.45" font-size="12" text-anchor="middle" fill="#4B5563">imagine</text>
+<text x="902" y="607.0" font-size="13" fill="#374151">Card eveniment</text>
+<rect x="902" y="619.0" width="226" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="902" y="635.0" width="135.6" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="1048" y="676" width="80" height="30" rx="6" fill="#FFFFFF" stroke="#374151" stroke-width="1.5"/>
+<text x="1088.0" y="695.2" font-size="12" text-anchor="middle" fill="#374151">Detalii</text>
+<rect x="640" y="750" width="260" height="34" rx="6" fill="#FFFFFF" stroke="#374151" stroke-width="1.5"/>
+<text x="770.0" y="771.2" font-size="12" text-anchor="middle" fill="#374151">« 1 2 3 »  (paginare)</text>
+<rect x="0" y="820" width="1200" height="180" fill="#F1F1F1"/>
+<text x="24" y="858.4" font-size="15.299999999999999" font-weight="bold" fill="#1F2937">LOGO + descriere</text>
+<rect x="24" y="875" width="328" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="24" y="891" width="328" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="24" y="907" width="196.79999999999998" height="8" rx="4" fill="#C9C9C9"/>
+<text x="416" y="858.4" font-size="15.299999999999999" font-weight="bold" fill="#1F2937">Pagini (linkuri)</text>
+<rect x="416" y="875" width="160" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="416" y="891" width="160" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="416" y="907" width="160" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="416" y="923" width="160" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="416" y="939" width="96.0" height="8" rx="4" fill="#C9C9C9"/>
+<text x="808" y="858.4" font-size="15.299999999999999" font-weight="bold" fill="#1F2937">Contact</text>
+<rect x="808" y="875" width="200" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="808" y="891" width="200" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="808" y="907" width="120.0" height="8" rx="4" fill="#C9C9C9"/>
+</svg>

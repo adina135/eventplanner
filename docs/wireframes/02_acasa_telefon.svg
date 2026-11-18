@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="2520" viewBox="0 0 390 2520" font-family="Arial, sans-serif">
+<rect width="390" height="2520" fill="#FFFFFF" stroke="#9CA3AF"/>
+<rect x="0" y="0" width="390" height="64" fill="#F1F1F1"/>
+<text x="24" y="38.0" font-size="17.0" font-weight="bold" fill="#1F2937">LOGO EventPlanner</text>
+<rect x="330" y="16" width="40" height="32" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<text x="350.0" y="36.2" font-size="12" text-anchor="middle" fill="#6B7280">≡</text>
+<rect x="0" y="64" width="390" height="470" fill="#F1F1F1"/>
+<text x="20" y="110.8" font-size="22.099999999999998" font-weight="bold" fill="#1F2937">Titlu mare (H1)</text>
+<rect x="20" y="130" width="350" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="20" y="146" width="350" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="20" y="162" width="210.0" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="20" y="210" width="350" height="150" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<rect x="32" y="222" width="326" height="36" rx="4" fill="#FFFFFF" stroke="#9CA3AF"/>
+<text x="42" y="244.0" font-size="12" fill="#9CA3AF">Ce cauți?</text>
+<rect x="32" y="266" width="326" height="36" rx="4" fill="#FFFFFF" stroke="#9CA3AF"/>
+<text x="42" y="288.0" font-size="12" fill="#9CA3AF">Oraș (listă)</text>
+<rect x="32" y="310" width="326" height="38" rx="6" fill="#374151" stroke="#374151" stroke-width="1.5"/>
+<text x="195.0" y="333.2" font-size="12" text-anchor="middle" fill="#FFFFFF">Caută</text>
+<rect x="20" y="380" width="350" height="140" fill="#E2E2E2" stroke="#6B7280"/><line x1="20" y1="380" x2="370" y2="520" stroke="#B0B0B0"/><line x1="370" y1="380" x2="20" y2="520" stroke="#B0B0B0"/>
+<rect x="94.0" y="438.0" width="202" height="24" fill="#FFFFFF"/>
+<text x="195.0" y="454.2" font-size="12" text-anchor="middle" fill="#4B5563">Card „Următorul eveniment”</text>
+<text x="20" y="577.6" font-size="18.7" font-weight="bold" fill="#1F2937">Categorii</text>
+<rect x="20" y="595" width="170" height="80" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<text x="105.0" y="639.2" font-size="12" text-anchor="middle" fill="#6B7280">Categorie 1</text>
+<rect x="200" y="595" width="170" height="80" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<text x="285.0" y="639.2" font-size="12" text-anchor="middle" fill="#6B7280">Categorie 2</text>
+<rect x="20" y="685" width="170" height="80" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<text x="105.0" y="729.2" font-size="12" text-anchor="middle" fill="#6B7280">Categorie 3</text>
+<rect x="200" y="685" width="170" height="80" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<text x="285.0" y="729.2" font-size="12" text-anchor="middle" fill="#6B7280">Categorie 4</text>
+<rect x="20" y="775" width="170" height="80" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<text x="105.0" y="819.2" font-size="12" text-anchor="middle" fill="#6B7280">Categorie 5</text>
+<rect x="200" y="775" width="170" height="80" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<text x="285.0" y="819.2" font-size="12" text-anchor="middle" fill="#6B7280">Categorie 6</text>
+<text x="20" y="892.6" font-size="18.7" font-weight="bold" fill="#1F2937">Evenimente recomandate</text>
+<rect x="20" y="905" width="240" height="30" rx="6" fill="#FFFFFF" stroke="#374151" stroke-width="1.5"/>
+<text x="140.0" y="924.2" font-size="12" text-anchor="middle" fill="#374151">Toate | Gratuite | Weekend</text>
+<rect x="20" y="950" width="350" height="250" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<rect x="20" y="950" width="350" height="112.5" fill="#E2E2E2" stroke="#6B7280"/><line x1="20" y1="950" x2="370" y2="1062.5" stroke="#B0B0B0"/><line x1="370" y1="950" x2="20" y2="1062.5" stroke="#B0B0B0"/>
+<rect x="160.5" y="994.25" width="69" height="24" fill="#FFFFFF"/>
+<text x="195.0" y="1010.45" font-size="12" text-anchor="middle" fill="#4B5563">imagine</text>
+<text x="32" y="1087.0" font-size="13" fill="#374151">Card eveniment</text>
+<rect x="32" y="1099.0" width="326" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="32" y="1115.0" width="195.6" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="278" y="1156" width="80" height="30" rx="6" fill="#FFFFFF" stroke="#374151" stroke-width="1.5"/>
+<text x="318.0" y="1175.2" font-size="12" text-anchor="middle" fill="#374151">Detalii</text>
+<rect x="20" y="1220" width="350" height="250" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<rect x="20" y="1220" width="350" height="112.5" fill="#E2E2E2" stroke="#6B7280"/><line x1="20" y1="1220" x2="370" y2="1332.5" stroke="#B0B0B0"/><line x1="370" y1="1220" x2="20" y2="1332.5" stroke="#B0B0B0"/>
+<rect x="160.5" y="1264.25" width="69" height="24" fill="#FFFFFF"/>
+<text x="195.0" y="1280.45" font-size="12" text-anchor="middle" fill="#4B5563">imagine</text>
+<text x="32" y="1357.0" font-size="13" fill="#374151">Card eveniment</text>
+<rect x="32" y="1369.0" width="326" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="32" y="1385.0" width="195.6" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="278" y="1426" width="80" height="30" rx="6" fill="#FFFFFF" stroke="#374151" stroke-width="1.5"/>
+<text x="318.0" y="1445.2" font-size="12" text-anchor="middle" fill="#374151">Detalii</text>
+<text x="20" y="1507.6" font-size="18.7" font-weight="bold" fill="#1F2937">Cum funcționează</text>
+<rect x="20" y="1525" width="350" height="70" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<text x="195.0" y="1564.2" font-size="12" text-anchor="middle" fill="#6B7280">Pas 1</text>
+<rect x="20" y="1605" width="350" height="70" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<text x="195.0" y="1644.2" font-size="12" text-anchor="middle" fill="#6B7280">Pas 2</text>
+<rect x="20" y="1685" width="350" height="70" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<text x="195.0" y="1724.2" font-size="12" text-anchor="middle" fill="#6B7280">Pas 3</text>
+<rect x="0" y="1775" width="390" height="150" fill="#F1F1F1"/>
+<rect x="20" y="1790" width="170" height="55" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<text x="105.0" y="1821.7" font-size="12" text-anchor="middle" fill="#6B7280">Statistică</text>
+<rect x="200" y="1790" width="170" height="55" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<text x="285.0" y="1821.7" font-size="12" text-anchor="middle" fill="#6B7280">Statistică</text>
+<rect x="20" y="1855" width="170" height="55" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<text x="105.0" y="1886.7" font-size="12" text-anchor="middle" fill="#6B7280">Statistică</text>
+<rect x="200" y="1855" width="170" height="55" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<text x="285.0" y="1886.7" font-size="12" text-anchor="middle" fill="#6B7280">Statistică</text>
+<rect x="20" y="1945" width="350" height="150" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<text x="195.0" y="2024.2" font-size="12" text-anchor="middle" fill="#6B7280">Bloc CTA organizatori</text>
+<rect x="20" y="2110" width="350" height="190" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<text x="195.0" y="2209.2" font-size="12" text-anchor="middle" fill="#6B7280">Newsletter: e-mail + GDPR + buton</text>
+<rect x="0" y="2320" width="390" height="200" fill="#F1F1F1"/>
+<text x="20" y="2354.4" font-size="15.299999999999999" font-weight="bold" fill="#1F2937">LOGO + descriere</text>
+<rect x="20" y="2375" width="350" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="20" y="2391" width="350" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="20" y="2407" width="210.0" height="8" rx="4" fill="#C9C9C9"/>
+<text x="20" y="2452" font-size="13" fill="#374151">Linkuri pagini · Contact</text>
+<text x="20" y="2497" font-size="13" fill="#374151">© 2026 EventPlanner</text>
+</svg>

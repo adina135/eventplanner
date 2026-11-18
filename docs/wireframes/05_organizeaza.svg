@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1130" viewBox="0 0 1200 1130" font-family="Arial, sans-serif">
+<rect width="1200" height="1130" fill="#FFFFFF" stroke="#9CA3AF"/>
+<rect x="0" y="0" width="1200" height="64" fill="#F1F1F1"/>
+<text x="24" y="38.0" font-size="17.0" font-weight="bold" fill="#1F2937">LOGO EventPlanner</text>
+<text x="340" y="38" font-size="13" fill="#374151">Acasă</text>
+<text x="445" y="38" font-size="13" fill="#374151">Evenimente</text>
+<text x="550" y="38" font-size="13" fill="#374151">Detalii</text>
+<text x="655" y="38" font-size="13" fill="#374151">Organizează</text>
+<text x="760" y="38" font-size="13" fill="#374151">Panoul meu</text>
+<rect x="930" y="14" width="120" height="36" rx="6" fill="#FFFFFF" stroke="#374151" stroke-width="1.5"/>
+<text x="990.0" y="36.2" font-size="12" text-anchor="middle" fill="#374151">Autentificare</text>
+<rect x="1060" y="14" width="116" height="36" rx="6" fill="#374151" stroke="#374151" stroke-width="1.5"/>
+<text x="1118.0" y="36.2" font-size="12" text-anchor="middle" fill="#FFFFFF">Creează cont</text>
+<rect x="0" y="64" width="1200" height="100" fill="#F1F1F1"/>
+<text x="60" y="122.4" font-size="22.099999999999998" font-weight="bold" fill="#1F2937">Organizează un eveniment (H1)</text>
+<rect x="60" y="190" width="740" height="720" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<text x="80" y="217" font-size="13" fill="#374151">Pași: 1 Detalii · 2 Locație · 3 Bilete</text>
+<text x="80" y="252" font-size="13" fill="#374151">Titlu eveniment</text>
+<rect x="80" y="260" width="700" height="36" rx="4" fill="#FFFFFF" stroke="#9CA3AF"/>
+<text x="80" y="338" font-size="13" fill="#374151">Categorie (listă)</text>
+<rect x="80" y="346" width="340" height="36" rx="4" fill="#FFFFFF" stroke="#9CA3AF"/>
+<text x="440" y="338" font-size="13" fill="#374151">Data și ora</text>
+<rect x="440" y="346" width="340" height="36" rx="4" fill="#FFFFFF" stroke="#9CA3AF"/>
+<text x="80" y="424" font-size="13" fill="#374151">Oraș (listă)</text>
+<rect x="80" y="432" width="340" height="36" rx="4" fill="#FFFFFF" stroke="#9CA3AF"/>
+<text x="440" y="424" font-size="13" fill="#374151">Adresă / locație</text>
+<rect x="440" y="432" width="340" height="36" rx="4" fill="#FFFFFF" stroke="#9CA3AF"/>
+<text x="80" y="510" font-size="13" fill="#374151">Număr locuri</text>
+<rect x="80" y="518" width="340" height="36" rx="4" fill="#FFFFFF" stroke="#9CA3AF"/>
+<text x="440" y="510" font-size="13" fill="#374151">Preț (lei)</text>
+<rect x="440" y="518" width="340" height="36" rx="4" fill="#FFFFFF" stroke="#9CA3AF"/>
+<text x="80" y="596" font-size="13" fill="#374151">Descriere (textarea)</text>
+<rect x="80" y="604" width="700" height="90" rx="4" fill="#FFFFFF" stroke="#9CA3AF"/>
+<text x="80" y="736" font-size="13" fill="#374151">Imagine copertă (upload)</text>
+<rect x="80" y="744" width="700" height="36" rx="4" fill="#FFFFFF" stroke="#9CA3AF"/>
+<rect x="80" y="850" width="160" height="40" rx="6" fill="#FFFFFF" stroke="#374151" stroke-width="1.5"/>
+<text x="160.0" y="874.2" font-size="12" text-anchor="middle" fill="#374151">Salvează ciornă</text>
+<rect x="620" y="850" width="160" height="40" rx="6" fill="#374151" stroke="#374151" stroke-width="1.5"/>
+<text x="700.0" y="874.2" font-size="12" text-anchor="middle" fill="#FFFFFF">Publică</text>
+<rect x="830" y="190" width="310" height="300" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<text x="850" y="224.4" font-size="15.299999999999999" font-weight="bold" fill="#1F2937">Previzualizare card</text>
+<rect x="850" y="245" width="270" height="120" fill="#E2E2E2" stroke="#6B7280"/><line x1="850" y1="245" x2="1120" y2="365" stroke="#B0B0B0"/><line x1="1120" y1="245" x2="850" y2="365" stroke="#B0B0B0"/>
+<rect x="950.5" y="293.0" width="69" height="24" fill="#FFFFFF"/>
+<text x="985.0" y="309.2" font-size="12" text-anchor="middle" fill="#4B5563">imagine</text>
+<rect x="850" y="380" width="270" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="850" y="396" width="270" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="850" y="412" width="162.0" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="830" y="510" width="310" height="160" rx="8" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+<text x="985.0" y="594.2" font-size="12" text-anchor="middle" fill="#6B7280">Sfaturi pentru organizatori</text>
+<rect x="0" y="950" width="1200" height="180" fill="#F1F1F1"/>
+<text x="24" y="988.4" font-size="15.299999999999999" font-weight="bold" fill="#1F2937">LOGO + descriere</text>
+<rect x="24" y="1005" width="328" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="24" y="1021" width="328" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="24" y="1037" width="196.79999999999998" height="8" rx="4" fill="#C9C9C9"/>
+<text x="416" y="988.4" font-size="15.299999999999999" font-weight="bold" fill="#1F2937">Pagini (linkuri)</text>
+<rect x="416" y="1005" width="160" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="416" y="1021" width="160" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="416" y="1037" width="160" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="416" y="1053" width="160" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="416" y="1069" width="96.0" height="8" rx="4" fill="#C9C9C9"/>
+<text x="808" y="988.4" font-size="15.299999999999999" font-weight="bold" fill="#1F2937">Contact</text>
+<rect x="808" y="1005" width="200" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="808" y="1021" width="200" height="8" rx="4" fill="#C9C9C9"/>
+<rect x="808" y="1037" width="120.0" height="8" rx="4" fill="#C9C9C9"/>
+</svg>
